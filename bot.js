@@ -343,4 +343,3 @@ client.on('message', message => {
 });
 
 client.login(process.env.BOT_TOKEN);
-
